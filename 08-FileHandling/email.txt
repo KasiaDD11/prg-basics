@@ -7,6 +7,7 @@ Received: from [192.168.1.10] (unknown [192.168.1.10])
     for <anna.nowak@example.com>; Tue, 8 Oct 2024 14:32:14 +0200 (CEST)
 Message-ID: <20241008143214.DEF67890@mail.example.com>
 Date: Tue, 8 Oct 2024 14:32:14 +0200
+
 From: Jan Kowalski <jan.kowalski@example.com>
 To: Anna Nowak <anna.nowak@example.com>
 Subject: Report request
